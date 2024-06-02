@@ -2,9 +2,6 @@
 
 This is one of the projects I made during the "Complete Web Development Bootcamp" by Dr. Angela Yu in Udemy. It showcases my knowledge of Bootstrap
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
-
 ## SVGs:
 
 Apple Logo:
